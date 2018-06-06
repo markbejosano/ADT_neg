@@ -1,0 +1,19 @@
+CallFlow,CallTransfer,CallLogs
+"PaymentsGreeting_3
+PaymentsGreeting_2
+AskCustomerNum
+AskCustomerNumConf",,e4007-20180328181307553-488.txt
+"AskABANum
+AskABANumConf1
+AskBankAcctNum2
+AskBankAcctNumConf",,e4007-20180328181308053-490.txt
+"PayPmtDueAmt
+AskPayMakePmt3
+AskPmtAmt2
+AskPmtAmtConf4
+AskCreditOrBankAcct","billSystem=MRB;
+accountId=12139356;
+billingZipCode=33430;",e4007-20180329163100916-016.txt
+,"accountId=12139546;
+billingZipCode=33430;
+isBillSystemAvailable= false;",e4007-20180329163101416-018.txt
